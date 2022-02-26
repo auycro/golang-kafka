@@ -1,0 +1,14 @@
+{
+	"folders": [
+    {
+      "path": ".devcontainer"
+    },
+    {
+      "path": "workspace/consumer"
+    },
+    {
+      "path": "workspace/producer"
+    }
+  ],
+  "settings": {}
+}
