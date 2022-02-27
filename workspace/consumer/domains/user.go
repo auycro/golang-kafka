@@ -1,4 +1,4 @@
-package domain
+package domains
 
 type User struct {
 	UserId    int64  `json:"user_id" gorm:"primary_key"`
